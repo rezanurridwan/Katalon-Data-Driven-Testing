@@ -21,13 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/ ')
 
-WebUI.setText(findTestObject('Login/input_user-name'), findTestData('Data Login').getValue(1, 2))
+WebUI.setText(findTestObject('Login/input_user-name'), findTestData('Data Login').getValue(1, 1))
 
-WebUI.setText(findTestObject('Login/input_password'), findTestData('Data Login').getValue(1, 3))
+WebUI.setText(findTestObject('Login/input_password'), findTestData('Data Login').getValue(2, 1))
 
 WebUI.click(findTestObject('Login/input_login-button'))
 
 WebUI.takeFullPageScreenshot()
-
-WebUI.closeBrowser()
 

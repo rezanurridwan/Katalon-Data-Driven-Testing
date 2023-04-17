@@ -15,13 +15,13 @@
       <guid>3a867430-8a86-45d7-9541-319f0a027976</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/TCLog 01 Input username dan password valid</testCaseId>
+      <testCaseId>Test Cases/Login/TCLog 01 Akun 1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>51b7806a-1107-4ee1-9d29-d07867fac226</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
          </iterationEntity>
          <testDataId>Data Files/Data Login</testDataId>
       </testDataLink>

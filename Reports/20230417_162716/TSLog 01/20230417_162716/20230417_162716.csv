@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TSLog 01,Chrome 111.0.0.0,Data driven from excel,,2023-04-17 16:27:20,2023-04-17 16:27:33,12.743s,PASSED
+,,,,,,,
+Test Cases/Login/TCLog 01 Input username dan password valid,Chrome 111.0.0.0,Input username dan password valid,Login,2023-04-17 16:27:21,2023-04-17 16:27:33,12.096s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-04-17 16:27:22,2023-04-17 16:27:26,3.798s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/ "")",Chrome 111.0.0.0,,,2023-04-17 16:27:26,2023-04-17 16:27:27,1.091s,PASSED
+"setText(findTestObject(""Login/input_user-name""), findTestData(""Data Login"").getValue(1, 1))",Chrome 111.0.0.0,,,2023-04-17 16:27:27,2023-04-17 16:27:30,2.834s,PASSED
+"setText(findTestObject(""Login/input_password""), findTestData(""Data Login"").getValue(1, 1))",Chrome 111.0.0.0,,,2023-04-17 16:27:30,2023-04-17 16:27:31,1.009s,PASSED
+"click(findTestObject(""Login/input_login-button""))",Chrome 111.0.0.0,,,2023-04-17 16:27:31,2023-04-17 16:27:31,0.524s,PASSED
+takeFullPageScreenshot(),Chrome 111.0.0.0,,,2023-04-17 16:27:31,2023-04-17 16:27:32,0.748s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-04-17 16:27:32,2023-04-17 16:27:33,1.363s,PASSED

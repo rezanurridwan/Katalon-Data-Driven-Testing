@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Input username dan password valid</description>
-   <name>TCLog 01 Input username dan password valid</name>
+   <name>TCLog 01 Akun 1</name>
    <tag>Login</tag>
    <comment></comment>
    <testCaseGuid>edb0aa26-1161-4c10-844f-18680dafe234</testCaseGuid>
@@ -18,14 +18,14 @@
       <variableId>3a266b1f-dab1-4ace-a1c8-7b6a93e06c65</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>findTestData('Data Login').getValue(1, 2)</defaultValue>
+      <defaultValue>findTestData('Data Login').getValue(1, 1)</defaultValue>
       <description></description>
       <id>99b3ed9a-fe65-4cde-811d-8226f717f053</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>findTestData('Data Login').getValue(1, 3)</defaultValue>
+      <defaultValue>findTestData('Data Login').getValue(2, 2)</defaultValue>
       <description></description>
       <id>3a266b1f-dab1-4ace-a1c8-7b6a93e06c65</id>
       <masked>false</masked>

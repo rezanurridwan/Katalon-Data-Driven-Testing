@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Akun tidak terdaftar</description>
+   <name>TCLog 05 Akun tidak terdaftar</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>f1616a9b-7af6-4a67-9c6d-40f26ec27bed</testCaseGuid>
+</TestCaseEntity>

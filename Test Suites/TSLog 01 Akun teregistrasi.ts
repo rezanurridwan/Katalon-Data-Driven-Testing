@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Data driven from excel</description>
+   <name>TSLog 01 Akun teregistrasi</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>197d31c6-8183-4821-ad95-a3613399763a</testSuiteGuid>
+   <testCaseLink>
+      <guid>3a867430-8a86-45d7-9541-319f0a027976</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TCLog 01 Akun 1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>51b7806a-1107-4ee1-9d29-d07867fac226</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>51b7806a-1107-4ee1-9d29-d07867fac226</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>99b3ed9a-fe65-4cde-811d-8226f717f053</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>51b7806a-1107-4ee1-9d29-d07867fac226</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>3a266b1f-dab1-4ace-a1c8-7b6a93e06c65</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>14946dc6-e741-483b-97c3-35982c5d5588</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TCLog 02 Akun 2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>024ba478-df2b-4aa3-aa3d-04b5d2426597</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>024ba478-df2b-4aa3-aa3d-04b5d2426597</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>3c45da2c-ddce-4607-881a-72d450899ead</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>024ba478-df2b-4aa3-aa3d-04b5d2426597</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>7bb34e84-c227-48bb-949e-336552759aea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>83119dda-66a4-4561-884a-d51b4dd9c984</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TCLog 03 Akun 3</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3cba6398-df9a-4c6d-8c0d-5aa6ede656ce</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3cba6398-df9a-4c6d-8c0d-5aa6ede656ce</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>888ac307-d6e0-4ca9-9ae9-3d36579c6e3c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3cba6398-df9a-4c6d-8c0d-5aa6ede656ce</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>f0254a65-9827-4487-8b97-1620db6ec222</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1ec2a294-92dd-4449-aa75-f2d001c8bf57</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TCLog 04 Akun 4</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a1ecc6fb-4436-4306-931f-8f3bf36754f8</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a1ecc6fb-4436-4306-931f-8f3bf36754f8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>eefbc213-8972-4dd2-aad7-b50491fe655f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a1ecc6fb-4436-4306-931f-8f3bf36754f8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>36eed527-d105-4326-90fa-afe2dbc78aac</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

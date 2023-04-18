@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TSLog 02 Akun Data Global Variable" time="35.674" tests="3" failures="0" errors="0">
+   <testsuite name="TSLog 02 Akun Data Global Variable" tests="3" failures="0" errors="0" time="35.674" skipped="0" timestamp="2023-04-18 13:19:15" hostname="LENOVO - DESKTOP-0EH6HA0" id="Test Suites/TSLog 02 Akun Data Global Variable">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798763867.png, C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798765299.png, C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798773492.png, C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798774647.png, C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798783025.png, C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798789272.png"/>
+         <property name="hostName" value="LENOVO - DESKTOP-0EH6HA0"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 112.0.0.0"/>
+         <property name="hostAddress" value="192.168.145.27"/>
+         <property name="sessionId" value="4e0d2b352c9bb1d8c4cd120af2154fe0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login/Positive/TCLog 02 Akun 2 (Data Global variable)" time="11.274" classname="Test Cases/Login/Positive/TCLog 02 Akun 2 (Data Global variable)" status="PASSED">
+         <system-out><![CDATA[2023-04-18 13:19:15 - [TEST_CASE][PASSED] - Test Cases/Login/Positive/TCLog 02 Akun 2 (Data Global variable): Test Cases/Login/Positive/TCLog 02 Akun 2 (Data Global variable)
+
+2023-04-18 13:19:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-04-18 13:19:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-04-18 13:19:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-04-18 13:19:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-04-18 13:19:20 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/ "): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-04-18 13:19:21 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-04-18 13:19:21 - [TEST_STEP][PASSED] - setText(findTestObject("Login/input_user-name"), username1): Text 'standard_user' is set on object 'Object Repository/Login/input_user-name'
+
+2023-04-18 13:19:23 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Login/input_user-name'
+
+2023-04-18 13:19:23 - [TEST_STEP][PASSED] - setText(findTestObject("Login/input_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/input_password'
+
+2023-04-18 13:19:23 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/input_password'
+
+2023-04-18 13:19:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-04-18 13:19:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-04-18 13:19:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798763867.png]]
+
+2023-04-18 13:19:24 - [TEST_STEP][PASSED] - click(findTestObject("Login/input_login-button")): Object: 'Object Repository/Login/input_login-button' is clicked on
+
+2023-04-18 13:19:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/input_login-button' is clicked on
+
+2023-04-18 13:19:25 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-04-18 13:19:26 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-04-18 13:19:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798765299.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Positive/TCLog 03 Akun 3 (Data Global variable)" time="9.517" classname="Test Cases/Login/Positive/TCLog 03 Akun 3 (Data Global variable)" status="PASSED">
+         <system-out><![CDATA[2023-04-18 13:19:26 - [TEST_CASE][PASSED] - Test Cases/Login/Positive/TCLog 03 Akun 3 (Data Global variable): Test Cases/Login/Positive/TCLog 03 Akun 3 (Data Global variable)
+
+2023-04-18 13:19:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-04-18 13:19:27 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-04-18 13:19:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-04-18 13:19:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-04-18 13:19:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-04-18 13:19:30 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/ "): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-04-18 13:19:31 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-04-18 13:19:31 - [TEST_STEP][PASSED] - setText(findTestObject("Login/input_user-name"), username2): Text 'problem_user' is set on object 'Object Repository/Login/input_user-name'
+
+2023-04-18 13:19:32 - [MESSAGE][PASSED] - Text 'problem_user' is set on object 'Object Repository/Login/input_user-name'
+
+2023-04-18 13:19:32 - [TEST_STEP][PASSED] - setText(findTestObject("Login/input_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/input_password'
+
+2023-04-18 13:19:33 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/input_password'
+
+2023-04-18 13:19:33 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-04-18 13:19:33 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-04-18 13:19:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798773492.png]]
+
+2023-04-18 13:19:34 - [TEST_STEP][PASSED] - click(findTestObject("Login/input_login-button")): Object: 'Object Repository/Login/input_login-button' is clicked on
+
+2023-04-18 13:19:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/input_login-button' is clicked on
+
+2023-04-18 13:19:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-04-18 13:19:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-04-18 13:19:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798774647.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Positive/TCLog 04 Akun 4 (Data Global variable)" time="14.327" classname="Test Cases/Login/Positive/TCLog 04 Akun 4 (Data Global variable)" status="PASSED">
+         <system-out><![CDATA[2023-04-18 13:19:36 - [TEST_CASE][PASSED] - Test Cases/Login/Positive/TCLog 04 Akun 4 (Data Global variable): Test Cases/Login/Positive/TCLog 04 Akun 4 (Data Global variable)
+
+2023-04-18 13:19:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-04-18 13:19:37 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-04-18 13:19:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-04-18 13:19:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-04-18 13:19:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-04-18 13:19:40 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/ "): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-04-18 13:19:41 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-04-18 13:19:41 - [TEST_STEP][PASSED] - setText(findTestObject("Login/input_user-name"), username3): Text 'performance_glitch_user' is set on object 'Object Repository/Login/input_user-name'
+
+2023-04-18 13:19:42 - [MESSAGE][PASSED] - Text 'performance_glitch_user' is set on object 'Object Repository/Login/input_user-name'
+
+2023-04-18 13:19:42 - [TEST_STEP][PASSED] - setText(findTestObject("Login/input_password"), password): Text 'secret_sauce' is set on object 'Object Repository/Login/input_password'
+
+2023-04-18 13:19:43 - [MESSAGE][PASSED] - Text 'secret_sauce' is set on object 'Object Repository/Login/input_password'
+
+2023-04-18 13:19:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-04-18 13:19:43 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-04-18 13:19:43 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798783025.png]]
+
+2023-04-18 13:19:43 - [TEST_STEP][PASSED] - click(findTestObject("Login/input_login-button")): Object: 'Object Repository/Login/input_login-button' is clicked on
+
+2023-04-18 13:19:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/input_login-button' is clicked on
+
+2023-04-18 13:19:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2023-04-18 13:19:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-04-18 13:19:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\LENOVO\\git\\Katalon-Data-Driven-Testing\\Reports\\20230418_131910\\TSLog 02 Akun Data Global Variable\\20230418_131910\\1681798789272.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-04-18 13:19:15 - [TEST_SUITE][PASSED] - TSLog 02 Akun Data Global Variable: Test Cases/Login/Positive/TCLog 04 Akun 4 (Data Global variable)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

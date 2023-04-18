@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input username with number</description>
+   <name>TCLog 09 Input username with number</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>58a3925a-e5ad-4003-bcbb-32974351cf77</testCaseGuid>
+</TestCaseEntity>

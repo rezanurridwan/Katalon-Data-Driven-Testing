@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Data driven global variable</description>
+   <name>TSLog 02 Akun Data Global Variable</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>197d31c6-8183-4821-ad95-a3613399763a</testSuiteGuid>
+   <testCaseLink>
+      <guid>33bf5a06-7c16-4c8a-9e1f-b6c7301d1a31</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Positive/TCLog 02 Akun 2 (Data Global variable)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3c45da2c-ddce-4607-881a-72d450899ead</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7bb34e84-c227-48bb-949e-336552759aea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>794d589c-5075-48ca-b0d3-2733ce608613</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Positive/TCLog 03 Akun 3 (Data Global variable)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>888ac307-d6e0-4ca9-9ae9-3d36579c6e3c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f0254a65-9827-4487-8b97-1620db6ec222</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1d2233d5-1667-4bb1-bb8f-347335303d35</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Positive/TCLog 04 Akun 4 (Data Global variable)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eefbc213-8972-4dd2-aad7-b50491fe655f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>36eed527-d105-4326-90fa-afe2dbc78aac</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

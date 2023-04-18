@@ -1,4 +1,0 @@
-{"testCaseName":"Test Cases/Login/TCLog 01 Akun 1","testCaseId":"Test Cases/Login/TCLog 01 Akun 1","iterationVariableName":"","bindedValues":{"password":"\u0027secret_sauce\u0027","username":"\u0027standard_user\u0027"}}
-{"testCaseName":"Test Cases/Login/TCLog 02 Akun 2","testCaseId":"Test Cases/Login/TCLog 02 Akun 2","iterationVariableName":"","bindedValues":{"password":"\u0027secret_sauce\u0027","username":"\u0027standard_user\u0027"}}
-{"testCaseName":"Test Cases/Login/TCLog 03 Akun 3","testCaseId":"Test Cases/Login/TCLog 03 Akun 3","iterationVariableName":"","bindedValues":{"password":"\u0027secret_sauce\u0027","username":"\u0027standard_user\u0027"}}
-{"testCaseName":"Test Cases/Login/TCLog 04 Akun 4","testCaseId":"Test Cases/Login/TCLog 04 Akun 4","iterationVariableName":"","bindedValues":{"password":"\u0027secret_sauce\u0027","username":"\u0027standard_user\u0027"}}

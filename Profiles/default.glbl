@@ -7,11 +7,26 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'standard_user'</initValue>
-      <name>username</name>
+      <name>username1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'problem_user'</initValue>
+      <name>username2</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'secret_sauce'</initValue>
       <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'performance_glitch_user'</initValue>
+      <name>username3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'locked_out_user'</initValue>
+      <name>username4</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

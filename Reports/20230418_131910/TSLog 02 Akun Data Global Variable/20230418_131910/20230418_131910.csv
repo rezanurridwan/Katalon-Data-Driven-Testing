@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TSLog 02 Akun Data Global Variable,Chrome 112.0.0.0,Data driven global variable,,2023-04-18 13:19:15,2023-04-18 13:19:50,35.674s,PASSED
+,,,,,,,
+Test Cases/Login/Positive/TCLog 02 Akun 2 (Data Global variable),Chrome 112.0.0.0,Input username dan password valid,Login,2023-04-18 13:19:15,2023-04-18 13:19:26,11.274s,PASSED
+"openBrowser("""")",Chrome 112.0.0.0,,,2023-04-18 13:19:16,2023-04-18 13:19:20,3.716s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/ "")",Chrome 112.0.0.0,,,2023-04-18 13:19:20,2023-04-18 13:19:21,1.108s,PASSED
+"setText(findTestObject(""Login/input_user-name""), username1)",Chrome 112.0.0.0,,,2023-04-18 13:19:21,2023-04-18 13:19:23,1.210s,PASSED
+"setText(findTestObject(""Login/input_password""), password)",Chrome 112.0.0.0,,,2023-04-18 13:19:23,2023-04-18 13:19:23,0.801s,PASSED
+takeFullPageScreenshot(),Chrome 112.0.0.0,,,2023-04-18 13:19:23,2023-04-18 13:19:24,0.765s,PASSED
+"click(findTestObject(""Login/input_login-button""))",Chrome 112.0.0.0,,,2023-04-18 13:19:24,2023-04-18 13:19:25,0.678s,PASSED
+takeFullPageScreenshot(),Chrome 112.0.0.0,,,2023-04-18 13:19:25,2023-04-18 13:19:26,1.534s,PASSED
+,,,,,,,
+Test Cases/Login/Positive/TCLog 03 Akun 3 (Data Global variable),Chrome 112.0.0.0,Input username dan password valid,Login,2023-04-18 13:19:26,2023-04-18 13:19:36,9.517s,PASSED
+"openBrowser("""")",Chrome 112.0.0.0,,,2023-04-18 13:19:27,2023-04-18 13:19:30,2.835s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/ "")",Chrome 112.0.0.0,,,2023-04-18 13:19:30,2023-04-18 13:19:31,1.135s,PASSED
+"setText(findTestObject(""Login/input_user-name""), username2)",Chrome 112.0.0.0,,,2023-04-18 13:19:31,2023-04-18 13:19:32,1.029s,PASSED
+"setText(findTestObject(""Login/input_password""), password)",Chrome 112.0.0.0,,,2023-04-18 13:19:32,2023-04-18 13:19:33,0.935s,PASSED
+takeFullPageScreenshot(),Chrome 112.0.0.0,,,2023-04-18 13:19:33,2023-04-18 13:19:34,0.582s,PASSED
+"click(findTestObject(""Login/input_login-button""))",Chrome 112.0.0.0,,,2023-04-18 13:19:34,2023-04-18 13:19:34,0.573s,PASSED
+takeFullPageScreenshot(),Chrome 112.0.0.0,,,2023-04-18 13:19:34,2023-04-18 13:19:36,1.709s,PASSED
+,,,,,,,
+Test Cases/Login/Positive/TCLog 04 Akun 4 (Data Global variable),Chrome 112.0.0.0,Input username dan password valid,Login,2023-04-18 13:19:36,2023-04-18 13:19:50,14.327s,PASSED
+"openBrowser("""")",Chrome 112.0.0.0,,,2023-04-18 13:19:37,2023-04-18 13:19:40,3.235s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/ "")",Chrome 112.0.0.0,,,2023-04-18 13:19:40,2023-04-18 13:19:41,1.048s,PASSED
+"setText(findTestObject(""Login/input_user-name""), username3)",Chrome 112.0.0.0,,,2023-04-18 13:19:41,2023-04-18 13:19:42,0.860s,PASSED
+"setText(findTestObject(""Login/input_password""), password)",Chrome 112.0.0.0,,,2023-04-18 13:19:42,2023-04-18 13:19:43,0.813s,PASSED
+takeFullPageScreenshot(),Chrome 112.0.0.0,,,2023-04-18 13:19:43,2023-04-18 13:19:43,0.613s,PASSED
+"click(findTestObject(""Login/input_login-button""))",Chrome 112.0.0.0,,,2023-04-18 13:19:43,2023-04-18 13:19:49,5.635s,PASSED
+takeFullPageScreenshot(),Chrome 112.0.0.0,,,2023-04-18 13:19:49,2023-04-18 13:19:50,1.419s,PASSED

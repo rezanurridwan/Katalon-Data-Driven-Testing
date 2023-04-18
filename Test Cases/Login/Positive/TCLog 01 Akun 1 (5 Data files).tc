@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input username dan password dengan 5 data</description>
+   <name>TCLog 01 Akun 1 (5 Data files)</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>edb0aa26-1161-4c10-844f-18680dafe234</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38ba7a22-4eec-40dc-8dbe-c17c6073b7ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>343903e4-8e66-47f1-a3ba-9654f8219111</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38ba7a22-4eec-40dc-8dbe-c17c6073b7ee</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>343903e4-8e66-47f1-a3ba-9654f8219111</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

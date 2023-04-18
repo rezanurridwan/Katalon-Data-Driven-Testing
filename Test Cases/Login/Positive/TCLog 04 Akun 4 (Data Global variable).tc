@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input username dan password valid</description>
+   <name>TCLog 04 Akun 4 (Data Global variable)</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>6ee1c897-1681-45bc-bd82-37d731d487ec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eefbc213-8972-4dd2-aad7-b50491fe655f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36eed527-d105-4326-90fa-afe2dbc78aac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Data Login')</defaultValue>
+      <description></description>
+      <id>eefbc213-8972-4dd2-aad7-b50491fe655f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data Login')</defaultValue>
+      <description></description>
+      <id>36eed527-d105-4326-90fa-afe2dbc78aac</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

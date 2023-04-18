@@ -1,0 +1,6 @@
+{"testCaseName":"Test Cases/Login/Negative/TCLog 05 Akun tidak terdaftar","testCaseId":"Test Cases/Login/Negative/TCLog 05 Akun tidak terdaftar","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/Negative/TCLog 06 Input username null dan password valid","testCaseId":"Test Cases/Login/Negative/TCLog 06 Input username null dan password valid","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/Negative/TCLog 07 Input username valid password null","testCaseId":"Test Cases/Login/Negative/TCLog 07 Input username valid password null","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/Negative/TCLog 08 Input username dan password null","testCaseId":"Test Cases/Login/Negative/TCLog 08 Input username dan password null","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/Negative/TCLog 09 Input username with number","testCaseId":"Test Cases/Login/Negative/TCLog 09 Input username with number","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/Negative/TCLog 10 Input username with character","testCaseId":"Test Cases/Login/Negative/TCLog 10 Input username with character","iterationVariableName":""}
